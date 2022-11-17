@@ -1,0 +1,9 @@
+body {
+    background-image: url(./first-picture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; 
+    width: auto;
+    background-position-x: 50%;
+    background-position-y: 50%;   
+}
